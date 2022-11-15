@@ -65,7 +65,7 @@ getBiggerNumber(2, 4); // 4
 getBiggerNumber(2, 10); // 10
 getBiggerNumber(2000, 100); // 2000
 ``` -->
-
+<!--
 ### Zadanie 9.
 
 Napisz funkcję `itemsInCart()`, która zwróci odpowiednią gramatycznie liczbę przedmiotów w koszyku (item vs items).
@@ -98,9 +98,9 @@ Kolejność warunków ma znaczenie!
    - hasJacket: true/false
    - longTrip: true/false
    - isSummer: true/false
-3. Ustal swoje własne warunki, od jakich funkcja powinna nakazać wzięcie parasolki, a kiedy nie.
+3. Ustal swoje własne warunki, od jakich funkcja powinna nakazać wzięcie parasolki, a kiedy nie. -->
 
-### Zadanie 12.
+<!-- ### Zadanie 12.
 
 Ćwiczenie na operatory logiczne.
 
@@ -109,7 +109,7 @@ Kolejność warunków ma znaczenie!
 Dla wywołania isEqual(2, 2) zwraca true
 Dla wywołania isEqual(2, 10) zwraca false
 Dla wywołania isEqual(2000, 100) zwraca liczbę false
-Dla wywołania isEqual(100, '100') zwraca liczbę false
+Dla wywołania isEqual(100, '100') zwraca liczbę false -->
 
 ### Zadanie 13.
 
