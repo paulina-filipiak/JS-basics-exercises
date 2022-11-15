@@ -1,4 +1,4 @@
-# JavaScript - Basics
+<!-- # JavaScript - Basics
 
 ## Podstawowe operacje na typach prostych
 
@@ -26,25 +26,25 @@ Luki w powyższym zdaniu wypełnij wartościami ze zmiennych.
 2. Przypisz wywołanie funkcji `sum(5, 5)` do zmiennej `ten`
 3. Przypisz wywołanie funkcji `sum(2, 2)` do zmiennej `four`
 4. Wykorzystaj funkcję `sum`, aby dodać wartości zmiennych `ten` i `four`.
-5. Wynik przypisz do zmiennej `myAddedNumbers` i wydrukuj wartość tej zmiennej w konsoli.
+5. Wynik przypisz do zmiennej `myAddedNumbers` i wydrukuj wartość tej zmiennej w konsoli. -->
 
-### Zadanie 5.
+<!-- ### Zadanie 5.
 
 Wydrukuj w konsoli taką informacje:
 `Username: x have length: y.`
 
-Gdzie `x` to wartość zmiennej userName, a `y` to długość tej wartości
+Gdzie `x` to wartość zmiennej userName, a `y` to długość tej wartości -->
 
-## Instrukcje warunkowe
+<!-- ## Instrukcje warunkowe
 
 ### Zadanie 6.
 
 1. Stwórz dwie zmienna `firstUser` i `secondUser`. Przypisz im dowolne imiona.
 2. Napisz instrukcje warunkową `if`, która sprawdzi czy imiona są takie same:
    1. Jesli Tak - wydrukuj w konsoli wiadomość: "O! The names are the same!"
-   2. Jesli Nie - wydrukuj w konsoli wiadomość: "Unfortunately the names are different :("
+   2. Jesli Nie - wydrukuj w konsoli wiadomość: "Unfortunately the names are different :(" -->
 
-### Zadanie 7.
+<!-- ### Zadanie 7.
 
 1. Stwórz zmienną o nazwie `age`. I przypisz jej dowolną wartość liczbową.
 2. Napisz instrukcję warunkową, która sprawdzi czy wartość zmiennej `age` jest większa lub równa 18.
@@ -52,8 +52,8 @@ Gdzie `x` to wartość zmiennej userName, a `y` to długość tej wartości
    2. W każdym innym przypadku - wydrukuj w konsoli wiadomość: "User is underage"
 3. Zapisz tę funkcję na dwa sposoby
    1. Za pomocą `if`
-   2. Za pomocą ternary operatora (trójargumentowego)
-
+   2. Za pomocą ternary operatora (trójargumentowego) -->
+<!--
 ### Zadanie 8.
 
 Napisz funkcję `getBiggerNumber`, która z dwóch podanych liczb zwraca większą liczbę.
@@ -64,7 +64,7 @@ Przykład:
 getBiggerNumber(2, 4); // 4
 getBiggerNumber(2, 10); // 10
 getBiggerNumber(2000, 100); // 2000
-```
+``` -->
 
 ### Zadanie 9.
 
